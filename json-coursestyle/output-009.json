@@ -1,0 +1,402 @@
+[
+    {
+        "address": "Union Hills Country Club, 9860 W Lindgren Ave, Maricopa, Sun City, AZ, US",
+        "type": "Desert"
+    },
+    {
+        "address": "Oak Quarry Golf Club, 7151 Sierra Ave, Riverside, Riverside, CA, US",
+        "type": "Mountain"
+    },
+    {
+        "address": "Beachwood Golf Club, 1520 Highway 17 S, Horry, North Myrtle Beach, SC, US",
+        "type": "Ocean"
+    },
+    {
+        "address": "Plantation Palms Golf Club, 23253 Plantation Palms Blvd, Pasco, Land O Lakes, FL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Fox Hollow Golf Club, 2020 Trumbauersville Rd, Bucks, Quakertown, PA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Unicorn Golf Course, 460 William St, Middlesex, Stoneham, MA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Rancho Del Rey Golf Club, 5250 Green Sands Ave, Merced, Atwater, CA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Ibis Golf & Country Club, 8225 Ibis Blvd, Palm Beach, West Palm Beach, FL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Westridge Golf Club, 1400 S La Habra Hills Dr, Orange, La Habra, CA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Indian Spring Country Club, 115 S Elmwood Rd, Burlington, Marlton, NJ, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Birch Hills Golf Course, 2250 E Birch St, Orange, Brea, CA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Fenner Hill Country Club, 33 Wheeler Ln, Washington, Hope Valley, RI, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "The Golden Bear Club At Indigo Run, 72 Golden Bear Way, Beaufort, Hilton Head Island, SC, US",
+        "type": "Ocean"
+    },
+    {
+        "address": "Brentwood Country Club, 100 Pennsylvania Ave, Suffolk, Brentwood, NY, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Kempsville Greens Municipal Golf Course, 4840 Princess Anne Rd, Virginia Beach-Norfolk-Newport News, Virginia Beach, VA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Foothills Golf Course, 3901 S Carr St, Denver, Denver, CO, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Legacy Hills Golf Club, 301 del Webb Blvd, Williamson, Georgetown, TX, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "The Glen Club, 2901 W Lake Ave, Cook, Glenview, IL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Black Mountain Golf Course, 15 Ross Dr, Buncombe, Black Mountain, NC, US",
+        "type": "Mountain"
+    },
+    {
+        "address": "Pecan Valley Municipal Golf Course, 6400 Pecan Valley Dr, Tarrant, Fort Worth, TX, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "38 Bide A Wee Ln, Norfolk, Portsmouth, VA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Northwest Park Golf Course, 15701 Layhill Rd, Montgomery, Silver Spring, MD, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Sunset Landing Golf Course, 346 James Record Rd SW, Madison, Huntsville, AL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Bella Collina, 200 Avenida La Pata, Orange, San Clemente, CA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Rock Manor Golf Club, 1319 Carruthers Ln., New Castle, Wilmington, DE, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Bay Forest Golf Course, 201 Bay Forest Dr, Harris, La Porte, TX, US",
+        "type": "Marshland/Wetland"
+    },
+    {
+        "address": "Cypress Knoll Golf Club, 53 Easthampton Blvd, Flagler, Palm Coast, FL, US",
+        "type": "Marshland/Wetland"
+    },
+    {
+        "address": "The Reserve Vineyards & Golf Club, 4805 SW 229th Ave, Washington, Aloha, OR, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Bethpage State Park Golf Course, 99 Quaker Meeting House Rd, Nassau, Farmingdale, NY, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Diamond Ridge Golf Course, 2309 Ridge Rd, Baltimore, Windsor Mill, MD, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Tierra Santa Golf Club, 1901 Club de Amistad, Hidalgo, Weslaco, TX, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Southern Dunes Golf & Country Club, 2888 Southern Dunes Blvd, Polk, Haines City, FL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Starfire At Scottsdale Country Club, 11500 N Hayden Rd, Maricopa, Scottsdale, AZ, US",
+        "type": "Desert"
+    },
+    {
+        "address": "Prairie Lakes Golf Club, 3202 SE 14th St, Dallas, Grand Prairie, TX, US",
+        "type": "Prairie"
+    },
+    {
+        "address": "Golf Club of Dublin, 5805 Eiterman Rd, Franklin, Dublin, OH, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Fendrich Golf Course, 1900 E Diamond Ave, Vanderburgh, Evansville, IN, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Twin Bridges Golf Club, 1001 Cartersburg Rd, Hendricks, Danville, IN, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Turtle Creek Golf Club, 1279 Admiralty Blvd, Brevard, Rockledge, FL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Painted Desert Golf Club, 5555 Painted Mirage Rd, Clark, Las Vegas, NV, US",
+        "type": "Desert"
+    },
+    {
+        "address": "Green Harbor Golf Club, 624 Webster St, Plymouth, Marshfield, MA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Tilden Park Golf Course, Grizzly Peak & Shasta Road, Alameda, Berkeley, CA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Hancock Golf Course, 811 E 41st St, Travis, Austin, TX, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "16000 Ashford St, El Paso, El Paso, TX, US",
+        "type": "Desert"
+    },
+    {
+        "address": "World Tour Golf Links, 2000 World Tour Blvd, Horry, Myrtle Beach, SC, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "River Oaks Golf Course, 9300 Riverside Dr, Salt Lake, Sandy, UT, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "TPC At Eagle Trace, 1111 Eagle Trace Blvd, Broward, Coral Springs, FL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Butter Brook Golf Club, 157 Carlisle Rd, Middlesex, Westford, MA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "The Mill Course, 1515 W Sharon Rd, Hamilton, Cincinnati, OH, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "The Preserve at Eisenhower Golf Course, 1576 Generals Hwy, Anne Arundel, Crownsville, MD, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Cedarwood Country Club, 4100 Pineville Matthews Rd, Mecklenburg, Charlotte, NC, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Tallwood Country Club, 91 North St, Tolland, Hebron, CT, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Smyrna Municipal Golf Course, 101 Sam Ridley Pkwy E, Rutherford, Smyrna, TN, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Harbor Club, 1 Club Dr, Greene, Greensboro, GA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Black Rock Creek Golf Course, 31 Ray Rd, Yakima, Sunnyside, WA, US",
+        "type": "Desert"
+    },
+    {
+        "address": "Heritage Oaks Golf Club, 3535 Dundee Rd, Cook, Northbrook, IL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Paramus Golf Club, 314 Paramus Rd, Bergen, Paramus, NJ, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Houston National Golf Club, 16500 Houston National Blvd, Harris, Houston, TX, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Chastain Park Golf Course, 216 W Wieuca Rd NW, Fulton, Atlanta, GA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Southington Country Club, 150 Savage Street, Hartford, Southington, CT, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Grand Reserve Golf Club, 235 Oak Branch Blvd, Flagler, Bunnell, FL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Meadow Wood Golf Course, 24501 E Valleyway Ave, Spokane, Liberty Lake, WA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Laguna Seca Golf Club, 10520 York Rd, Monterey, Monterey, CA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Atlantic National Golf Course, 6400 Grand Lacuna Blvd, Palm Beach, Lake Worth, FL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Gettysburg National Golf Club, 4099 Bullfrog Rd, Adams, Fairfield, PA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "BlackHorse Golf Club, 12205 Fry Rd, Harris, Cypress, TX, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Serrano Country Club, 5005 Serrano Pkwy, El Dorado, El Dorado Hills, CA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Oyster Bay Golf Course, 1 S Woods Rd, Nassau, Woodbury, NY, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Indian Hills Country Club, 5700 Club House Dr, Riverside, Riverside, CA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Hamlet Wind Watch Golf Course, 1715 Vanderbilt Motor Pkwy, Suffolk, Hauppauge, NY, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Granite Falls Golf Club, 15949 W Clearview Blvd, Maricopa, Surprise, AZ, US",
+        "type": "Desert"
+    },
+    {
+        "address": "Sunset Valley Golf Course, 47 W Sunset Rd, Morris, Pompton Plains, NJ, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Wigwam Golf & Country Club, 451 N Litchfield Rd, Maricopa, Litchfield Park, AZ, US",
+        "type": "Desert"
+    },
+    {
+        "address": "Manitou Ridge Golf Course, 3200 McKnight Rd N, Ramsey, White Bear Lake, MN, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Del Lago Golf Club, 14155 E Via Rancho del Lago, Pima, Vail, AZ, US",
+        "type": "Desert"
+    },
+    {
+        "address": "The Skyway Golf Course, 515 Duncan Avenue, Jersey City, NJ, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Miami Beach Golf Club, 2301 Alton Rd, Miami-Dade, Miami Beach, FL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Hidden Valley Golf Club, 10 Clubhouse Dr, Riverside, Norco, CA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Las Vegas Paiute Golf Resort, 10325 Nu Wav Kaiv Blvd, Clark, Las Vegas, NV, US",
+        "type": "Desert"
+    },
+    {
+        "address": "Lake Hefner Golf Club, 4491 S Lake Hefner Dr, Canadian/Cleveland/Pottawatomie, Oklahoma City, OK, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Shennecossett Golf Course, 93 Plant St, New London, Groton, CT, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Palm Aire Country Club & Resort, 2600 N Palm Aire Dr, Broward, Pompano Beach, FL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Wildhorse Golf Course, 2323 Rockwell Dr, Yolo, Davis, CA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "The Golf Club At Crystal Falls, 3400 Crystal Falls Pkwy, Williamson, Leander, TX, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Forty Niner Golf & Country Club, 12000 E Tanque Verde Rd, Pima, Tucson, AZ, US",
+        "type": "Desert"
+    },
+    {
+        "address": "Native Oaks Golf Club, 14616 Woods Valley Rd, San Diego, Valley Center, CA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Rackham Golf Course, 10100 W 10 Mile Rd, Oakland, Huntington Woods, MI, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Conestoga Golf Club, 1300 Flat Top Mesa Drive, Clark, Mesquite, NV, US",
+        "type": "Desert"
+    },
+    {
+        "address": "Angel Park Golf Club, 100 S Rampart Blvd, Clark, Las Vegas, NV, US",
+        "type": "Desert"
+    },
+    {
+        "address": "Discovery Bay Country Club, 1475 Clubhouse Dr, Contra Costa, Discovery Bay, CA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "The Club At Longleaf, 10 Knoll Rd, Moore, Southern Pines, NC, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "South Shore Golf Club, 200 Huguenot Ave, Richmond, Staten Island, NY, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Mountain Vista Golf Course, 38180 del Webb Blvd, Riverside, Palm Desert, CA, US",
+        "type": "Desert"
+    },
+    {
+        "address": "6166 Challedon Cir, Carroll, Mount Airy, MD, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Menifee Lakes Country Club, 29875 Menifee Lakes Dr, Riverside, Menifee, CA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Willis Case Golf Course, 4999 Vrain St, Denver, Denver, CO, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Huntington Hills Golf & Country Club, 2626 Duff Rd, Polk, Lakeland, FL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Ardea Country Club, 1055 E Lake Woodlands Pkwy, Pinellas, Oldsmar, FL, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Players Club At Woodland Trails, 6610 W River Rd, Delaware, Yorktown, IN, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Cedarcrest Golf Course, 6810 84th St NE, Snohomish, Marysville, WA, US",
+        "type": "Parkland"
+    },
+    {
+        "address": "Cottonwood Creek Golf Course, 5201 Bagby Ave, McLennan, Waco, TX, US",
+        "type": "Parkland"
+    }
+]
