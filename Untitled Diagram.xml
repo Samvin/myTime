@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="29.5.5" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="29.6.0" pages="16">
   <diagram name="IFT" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="786" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -2018,6 +2018,38 @@
         </mxCell>
         <mxCell id="14SpxCihhX2Cph7OBwCk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="14SpxCihhX2Cph7OBwCk-31" target="14SpxCihhX2Cph7OBwCk-31">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zYnsdVNxg4bUx4RMq8IG" name="Page-16">
+    <mxGraphModel dx="3591" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j3q-JY06AJ7t-Op7tZ2T-6" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#00A4A6;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" value="us-west-2" vertex="1">
+          <mxGeometry height="510" width="1010" x="-2260" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n6MCeTSp-K1ZUa_csoO5-2" connectable="0" parent="1" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="570" width="1073" x="-2293" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8Vf_it6I0bCCRsxYHZz-1" parent="n6MCeTSp-K1ZUa_csoO5-2" style="rounded=1;arcSize=10;dashed=1;fillColor=none;gradientColor=none;dashPattern=1 1;strokeWidth=2;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="684" width="1073" y="-114" as="geometry" />
+        </mxCell>
+        <mxCell id="j3q-JY06AJ7t-Op7tZ2T-3" parent="n6MCeTSp-K1ZUa_csoO5-2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;aspect=fixed;" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="59.06422018348624" width="48.58032110091743" x="232.99751376146793" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j3q-JY06AJ7t-Op7tZ2T-8" parent="n6MCeTSp-K1ZUa_csoO5-2" style="dashed=0;html=1;shape=mxgraph.aws3.cloud;fillColor=#F58536;gradientColor=none;dashed=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="37.30909090909091" width="51.66739260910572" x="42.32935779816514" y="-134.72727272727272" as="geometry" />
+        </mxCell>
+        <mxCell id="j3q-JY06AJ7t-Op7tZ2T-12" parent="n6MCeTSp-K1ZUa_csoO5-2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;aspect=fixed;" value="course service&lt;div&gt;api.golflogix.com/course&lt;/div&gt;" vertex="1">
+          <mxGeometry height="59.06422018348624" width="48.58032110091743" x="512.21" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j3q-JY06AJ7t-Op7tZ2T-14" parent="n6MCeTSp-K1ZUa_csoO5-2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_load_balancing;fillColor=#F58536;gradientColor=none;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="50.94" width="43.66" x="823" y="94.06" as="geometry" />
+        </mxCell>
+        <mxCell id="j3q-JY06AJ7t-Op7tZ2T-2" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.route_53;fillColor=#F58536;gradientColor=none;aspect=fixed;" value="api.golflogix.com&lt;div&gt;userapi.golflogix.com&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="32.98" x="-1777.67" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
